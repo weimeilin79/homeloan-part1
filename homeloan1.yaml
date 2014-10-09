@@ -5,7 +5,7 @@ technologies:
 	-Content Base Routing 
 	-JAXB transformation
 	-Set up the activemq for messaging broker. 	
-summary:  Visit http://wei-meilin.blogspot.tw/2014/07/red-hat-jboss-fuse-getting-started-home.html
+summary: summary:  JBoss Fuse homeloan getting started demo
 level: Beginner
 product: fuse
 author: Christina Lin
