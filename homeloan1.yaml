@@ -6,6 +6,6 @@ technologies:
 	-JAXB transformation
 	-Set up the activemq for messaging broker. 	
 summary: summary:  JBoss Fuse homeloan getting started demo
-level: Beginner
+Level: Beginner
 product: fuse
 author: Christina Lin
