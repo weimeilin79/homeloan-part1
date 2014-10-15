@@ -1,11 +1,11 @@
 title: Home Loan Quick Start 1
 github_repo_url: https://github.com/weimeilin79/homeloan-part1 
-technologies: 
-	-File Endpoint 
-	-Content Base Routing 
-	-JAXB transformation
-	-Set up the activemq for messaging broker. 	
-summary: summary:  JBoss Fuse homeloan getting started demo
-Level: Beginner
+technologies:
+  File Endpoint
+  Content Base Routing
+  JAXB transformation
+  Set up the activemq for messaging broker.
+summary: JBoss Fuse homeloan getting started demo
+level: Beginner
 product: fuse
 author: Christina Lin
